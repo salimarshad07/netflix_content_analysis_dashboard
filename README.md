@@ -5,7 +5,7 @@ Interactive multi-page Tableau dashboard analyzing
 8,807 Netflix titles across Movies and TV Shows.
 
 ## 🔗 Live Dashboard
-[View on Tableau Public](paste your link)
+[View on Tableau Public](https://public.tableau.com/views/NetflixContentAnalysisDashboard_17790371616630/CountryInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📊 Dashboard Pages
 
